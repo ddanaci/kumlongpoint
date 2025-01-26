@@ -1,1 +1,1 @@
-# Container for KUM longpoint sharpener
+# Container for KUM long point sharpener
