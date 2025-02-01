@@ -12,7 +12,7 @@ TLDR: The STL files (mm units) are in the 'STLfiles' folder, and go to section 3
 I think the KUM long point sharpeners (or apparently, [long cone sharpener](https://web.archive.org/web/20250126132434/https%3A%2F%2Fkum.net%2Fen%2Flong-cone-sharpener%2F)) are pretty good value for money at ~£4/€5/US$6.
 However, there is one aspect that I find a bit irritating; the hinge for the container lid. It is not confidence inspiring, the plastic becomes stressed over time, and the lid breaks off. This is not a very big deal given the price point, but the sharpener module itself is usually still in good condition.
 The other minor frustration I have is that the container is too small and needs to be emptied too often.
-The lid of my most recent purchase broke off recently, so I decided it would be a nice project to design a new 3D-printable container while on annual leave from work. This way, the still good sharpener module can be used, and I can also have a larger container.
+The lid of my most recent purchase broke off, so I decided it would be a nice project to design a new 3D-printable container while on annual leave from work. This way, the still good sharpener module can be used further, and I can also have a larger container.
 
 ![Figure01](images/Figure01.jpg)
 
