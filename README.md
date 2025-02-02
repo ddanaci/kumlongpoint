@@ -105,6 +105,8 @@ I like the sheen and colour range of the enamel hobby paint, but a permanent mar
 
 ![Figure07](images/Figure07.jpg)
 
+The base is 75 mm square, and the overall height is 135 mm.
+
 ## 5 - Conclusions
 ### 5.1 - Practicality
 You shouldn't buy long point sharpeners just to extract the module and use this design.
